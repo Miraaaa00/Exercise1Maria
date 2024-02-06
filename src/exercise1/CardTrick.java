@@ -23,11 +23,7 @@ public class CardTrick {
             magicHand[i] = c;
         }
 
-        //adding hardcored luckyCard
-        Card luckyCard = new Card();
-        luckyCard.setValue(2);
-        luckyCard.setSuit("Clubs");
-        magicHand[3] = luckyCard; //replacing it for a card in the deck
+        
       
 
         // Print the magicHand
@@ -62,13 +58,20 @@ public class CardTrick {
             System.out.println("Sorry, your card is not in the magic hand.");
         }
     }
-}
 
     /**
      * A simple method to print out personal information. Follow the instructions to 
      * replace this information with your own.
      * @author Paul Bonenfant Jan 2022
      */
+    public static void printInfo() {
+        System.out.println("Maria Kristina Miranda 991720263 miramari@sheridancollege.ca");
+    }
+}
+
     
 
+
+    
+ 
 
