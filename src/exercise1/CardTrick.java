@@ -67,7 +67,26 @@ public class CardTrick {
     
     //I'm done
     public static void printInfo() {
-        System.out.println("Maria Kristina Miranda 991720263 miramari@sheridancollege.ca");
+        System.out.println("Congratulations, you guessed right!");
+        System.out.println();
+        
+        System.out.println("My name is Maria Kristina Miranda, You can call me Maria!!");
+        System.out.println();
+        
+        System.out.println("My career ambitions:");
+        System.out.println(" I would like to be a Cyber Security");
+        System.out.println(" Travel the world");
+	System.out.println(" Have a charity organization for children");	
+	System.out.println();	
+
+
+        System.out.println("My hobbies:");
+        System.out.println(" Hiking");
+        System.out.println(" Reading");
+        System.out.println(" Dancing");
+
+        System.out.println();
+
     }
 }
 
